@@ -14,33 +14,33 @@
 	gpu_opp_table_v2: gpu_opp_table_v2 {
 		compatible = "operating-points-v2";
 
-		opp-675000000 {
-			opp-hz = /bits/ 64 <675000000>;
+		opp-692000000 {
+			opp-hz = /bits/ 64 <692000000>;
 			opp-microvolt = <201>;
 		};
 
-		opp-585000000 {
-			opp-hz = /bits/ 64 <585000000>;
+		opp-602000000 {
+			opp-hz = /bits/ 64 <602000000>;
 			opp-microvolt = <137>;
 		};
 
-		opp-499200000 {
-			opp-hz = /bits/ 64 <499200000>;
+		opp-516200000 {
+			opp-hz = /bits/ 64 <516200000>;
 			opp-microvolt = <73>;
 		};
 
-		opp-427000000 {
-			opp-hz = /bits/ 64 <427000000>;
+		opp-444000000 {
+			opp-hz = /bits/ 64 <444000000>;
 			opp-microvolt = <57>;
 		};
 
-		opp-345000000 {
-			opp-hz = /bits/ 64 <345000000>;
+		opp-362000000 {
+			opp-hz = /bits/ 64 <362000000>;
 			opp-microvolt = <41>;
 		};
 
-		opp-257000000 {
-			opp-hz = /bits/ 64 <257000000>;
+		opp-274000000 {
+			opp-hz = /bits/ 64 <274000000>;
 			opp-microvolt = <25>;
 		};
 	};
